@@ -22,7 +22,7 @@
 ## 🖼️ 서비스 화면
 ### 온보딩
 #### 로그인 및 회의 생성, 참여 버튼이 있는 메인 페이지 입니다.
-![Image](https://github.com/user-attachments/assets/f52c2de3-b0fe-4b74-abed-646dcebd80f7)
+![Image](https://github.com/user-attachments/assets/b0e68f1e-afa3-458c-9f7b-3b6d0ee1138d)
 #### 미유에 대한 간략한 설명이 있는 온보딩 페이지 입니다.
 ![Image](https://github.com/user-attachments/assets/4cb4f25d-0468-4281-86f5-8d16d47986ff)
 ---
@@ -37,10 +37,10 @@
 ![Image](https://github.com/user-attachments/assets/1015c4d6-2147-47df-8c95-da72a0f53566)
 ### 발표 내용 요약
 #### 중간 발표 내용의 요약 및 추천 질문이 채팅창에 나타납니다.
-![Image](https://github.com/user-attachments/assets/9a7ebd3c-22b6-4a6c-8968-11caef4fa19c)
+![Image](https://github.com/user-attachments/assets/56430c80-a152-4430-a75b-b368b3e211dc)
 ### 질의 응답
 #### 질의 응답이 시작되면 손들기 버튼을 눌러 질문할 수 있습니다.
-![Image](https://github.com/user-attachments/assets/e6dab852-d9cf-4d7d-86dd-22be2a268947)
+![Image](https://github.com/user-attachments/assets/5154b326-3fe2-463d-93f7-98bbebe3ea03)
 ### 최종 요약 저장
 #### 발표회가 종료된 후, 최종 요약본이 보관함 페이지에 저장됩니다. 요약본은 Notion과 PDF로 제공됩니다.
 ![Image](https://github.com/user-attachments/assets/08fc54a1-4b59-45de-8414-83b023cf1c8f)
